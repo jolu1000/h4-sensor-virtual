@@ -1,0 +1,14 @@
+# Entorno virtual de Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Archivos del sistema / editores
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Notas internas
+h4-estado-proyecto.md
